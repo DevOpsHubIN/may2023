@@ -1,1 +1,3 @@
 This change is made by Sindhu
+fising the conflict
+merging to the origin branch featureB
